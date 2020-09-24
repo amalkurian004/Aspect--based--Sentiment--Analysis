@@ -14,3 +14,6 @@ Aspect Based Sentiment Analysis (ABSA) is the technique which is related to the 
  Aspect Mining:
  
 The aspect mining has done using the spacy library in natural language processing. The aspect mining has been used to derive the aspect or the feature of a particular tweet of what actually the aspect been meant to, it gives the gist of a particular text. 
+
+Random Forests: 
+Random forests is an ensemble learning method for regression, classification and other tasks which function by constructing a lot of decision trees at the training time and outputting the class that is the mode of the classes in case of classification or the mean prediction in the case of regression of individual trees. Random forests the problem for the decision trees habit of over fitting to their training set. Random Forest uses a divide and conquer approach. It makes the numeral type of decision tree and every Decision Tree is trained by picking any random attribute from the whole predictive set of attributes. Every tree grows up to maximum level based upon features subset. After this, a final Decision Tree is constructed for prediction of the test dataset. Random forest well performs on a large dataset and handles missing variable without variable deletion. 
